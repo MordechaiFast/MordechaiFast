@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @MordechaiFast
-- 👀 I’m interested in amature programing
+- 👋 Hi, I’m @Mordechai Fast
+- 👀 I’m interested in 1) Torah 2) Math, astronomy, language, etimology, history, physics, etc.
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
